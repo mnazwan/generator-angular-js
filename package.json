@@ -1,17 +1,12 @@
 {
-  "name": "generator-angular",
-  "version": "0.9.0-0",
+  "name": "generator-angular-js",
+  "version": "0.1.0-0",
+  "private": true,
   "description": "Yeoman generator for AngularJS",
   "keywords": [
-    "yeoman-generator",
-    "scaffold",
-    "framework",
-    "component",
-    "front-end",
-    "app",
-    "angular"
+    "yeoman-generator"
   ],
-  "author": "The Yeoman Team",
+  "author": "Nazwan",
   "main": "app/index.js",
   "files": [
     "app",
@@ -32,7 +27,7 @@
     "script-base.js",
     "util.js"
   ],
-  "repository": "yeoman/generator-angular",
+  "repository": "mnazwan/generator-angular-js",
   "scripts": {
     "test": "mocha"
   },
